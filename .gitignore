@@ -40,3 +40,6 @@ database.db
 images.txt
 points3D.txt
 project.ini
+
+cmake-build-debug
+.idea
